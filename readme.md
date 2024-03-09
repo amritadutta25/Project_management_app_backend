@@ -10,11 +10,8 @@ https://project-management-app-backend-zfh0.onrender.com
 
 | status | version | functionality         | notes                                                                               |
 | ------ | ------- | --------------------- | ----------------------------------------------------------------------------------- |
-|        | v1      | simple to do list     | full CRUD                                                                           |
-|        | v2      | subtasks              | projects introduced. each project get their own view and projects can hold subtasks |
-|        | v3      | status                | projects and tasks can show statuses, side quest: click+drag kanban interface       |
-|        | v4      | sharing               | user auth introduced. users can now share projects with other users                 |
-|        | v5      | priority & assignment | users can set priorities and assign tasks to other users                            |
+|        | v1      | Project managment CRUD app  | Full CRUD app. Each project get their own view and projects can hold subtasks. Subtasks will be be grouped together by the status. The prorities and assignees are shown on the each subtasks' show page. |
+|        | v2 (Nice to have)| sharing               | users can now share projects with other users                                       |
 
 ## Data models
 
